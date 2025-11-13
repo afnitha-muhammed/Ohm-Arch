@@ -273,6 +273,12 @@
 .u-section-2 .u-image-2 {
   background-image: url("images/WhatsAppImage2023-03-25at12.33.50PM.jpeg");
 }
+.u-section-2 .u-image-5 {
+  background-image: url("projects/img1.jpeg");
+}
+.u-section-2 .u-image-6 {
+  background-image: url("projects/img4.jpeg");
+}
 
 .u-section-2 .u-container-layout-5 {
   padding: 0;
@@ -350,7 +356,7 @@
 }
 
 .u-section-2 .u-image-5 {
-  background-image: url("images/WhatsAppImage2023-03-20at11.59.04AM.jpeg");
+  background-image: url("projects/img1.jpeg");
   background-position: 50% 50%;
 }
 
@@ -359,7 +365,7 @@
 }
 
 .u-section-2 .u-image-6 {
-  background-image: url("images/WhatsAppImage2023-03-20at11.59.04AM2.jpeg");
+  background-image: url("projects/img4.jpeg");
   background-position: 50% 50%;
 }
 
